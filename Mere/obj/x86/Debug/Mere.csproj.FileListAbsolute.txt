@@ -1,0 +1,9 @@
+U:\SLAM_4\WinForm_Mere_Filles\Mere\obj\x86\Debug\Mere.Fille.resources
+U:\SLAM_4\WinForm_Mere_Filles\Mere\obj\x86\Debug\Mere.Properties.Resources.resources
+U:\SLAM_4\WinForm_Mere_Filles\Mere\obj\x86\Debug\Mere.csproj.GenerateResource.Cache
+U:\SLAM_4\WinForm_Mere_Filles\Mere\bin\Debug\Mere.exe
+U:\SLAM_4\WinForm_Mere_Filles\Mere\bin\Debug\Mere.pdb
+U:\SLAM_4\WinForm_Mere_Filles\Mere\obj\x86\Debug\Mere.exe
+U:\SLAM_4\WinForm_Mere_Filles\Mere\obj\x86\Debug\Mere.pdb
+U:\SLAM_4\WinForm_Mere_Filles\Mere\obj\x86\Debug\Mere.FMere.resources
+U:\SLAM_4\WinForm_Mere_Filles\Mere\obj\x86\Debug\Mere.csprojResolveAssemblyReference.cache
