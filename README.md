@@ -1,6 +1,6 @@
-# Projet-Windows-Form-Mere-Fille-C#
+# TP-MereFille-WindowsForm-C#
 
-**Présentation du projet :**
+**Présentation du TP :**
 >Au sein de ce Tp il à fallu élaborer un Windows Forms permettant d'ouvrir une fenêtre, de l'instancier, de la reduire, 
 de la conserver au 1er plan, de la fermer, et de la supprimer.
 
